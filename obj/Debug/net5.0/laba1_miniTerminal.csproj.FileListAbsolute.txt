@@ -1,0 +1,16 @@
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.csproj.AssemblyReference.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.AssemblyInfoInputs.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.AssemblyInfo.cs
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.csproj.CoreCompileInputs.cache
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\laba1_miniTerminal.exe
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\laba1_miniTerminal.deps.json
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\laba1_miniTerminal.runtimeconfig.json
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\laba1_miniTerminal.runtimeconfig.dev.json
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\laba1_miniTerminal.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\ref\laba1_miniTerminal.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\bin\Debug\net5.0\laba1_miniTerminal.pdb
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\ref\laba1_miniTerminal.dll
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.pdb
+C:\Users\drtta\Google Диск\programming\HSE\C#\laba1_miniTerminal\obj\Debug\net5.0\laba1_miniTerminal.genruntimeconfig.cache
